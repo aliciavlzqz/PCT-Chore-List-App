@@ -1,3 +1,20 @@
 body{
-    background-color: rgba(107, 194, 238, 0.5);
+    background-image: url('https://res.cloudinary.com/doepoiym4/image/upload/v1679345243/Screenshot_2_sw9pbe.png');
+    background-size: cover;
+    font-family: 'Varela Round', sans-serif;
+}
+
+.container{
+    background-color: rgba(56, 83, 142, 0.2);
+    border: none;
+    border-radius: 50%;
+
+}
+
+.title{
+    font-size: 3rem;
+    color: darkblue;
+    display: flex;
+    align-items: center;
+    justify-content: center;
 }
